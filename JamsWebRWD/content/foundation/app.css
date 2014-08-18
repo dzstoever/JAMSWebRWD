@@ -1,0 +1,39 @@
+
+/*body {
+    background-image: black.jpg;
+    background-color:red;
+}*/
+
+#banner-small {
+    padding: 10px;
+    margin: 0px;
+    background: linear-gradient(to bottom, rgb(165, 201, 229) 0%, rgb(255, 255, 255) 100%) repeat scroll 0% 0% transparent;
+}
+
+#banner {
+    padding: 50px;
+    margin: 0px;
+    background: linear-gradient(to bottom, rgb(165, 201, 229) 0%, rgb(255, 255, 255) 100%) repeat scroll 0% 0% transparent;
+}
+
+.maincontent {
+    padding: 5px;
+    margin: 0px;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;    
+}
+
+    /* override the foundation styles in our submit menu */
+    #main_submitmenu_SubmitTree > table {
+          margin-bottom: 3px;/* margin under each menu item */
+    }
+    #main_submitmenu_SubmitTree > table tr th,
+    #main_submitmenu_SubmitTree > table tr td {
+            padding: 0px;
+            font-size: 0.75em;
+            color: #222222; }
